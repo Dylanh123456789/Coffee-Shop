@@ -1,0 +1,69 @@
+h1 {
+    color:rgb(255, 153, 0);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bluey {
+    color:darkblue;
+}
+
+#myid57 {
+    color: blueviolet;
+    font: size 25%;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{color: rgb(0, 0, 0);
+font-size: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+}
+body{background: rgb(44, 44, 44);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbutton {
+    border: solid rgb(0, 81, 255) 0px;
+    background-color: rgb(255, 153, 0);
+    color:rgb(0, 0, 0);
+    size-adjust: 50%;
+    border-radius: 150px;
+    padding: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.inner_container{
+    border: blue 2px;
+    display:flex;
+    flex-direction: row;
+}
+.nav_container {
+    border: blue 2px;
+    display: flex;
+    justify-content: space-evenly;
+    /* border: solid pinkk 2px; */
+}
+.imgmain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    border: blue 2px;
+    font-size: 150%;
+    display: flex;
+    justify-content: space-evenly;
+}
+h2 {
+    color:rgb(255, 153, 0);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imgmain2 .imgmain3 .imgmain4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}

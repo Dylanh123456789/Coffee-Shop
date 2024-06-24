@@ -1,0 +1,236 @@
+h1 {
+    color:rgb(255, 153, 0);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bluey {
+    color:darkblue;
+}
+
+#myid57 {
+    color: blueviolet;
+    font: size 25%;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{color: rgb(255, 255, 255);
+font-size: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+}
+body{background: rgb(44, 44, 44);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbutton {
+    border: solid rgb(0, 81, 255) 0px;
+    background-color: rgb(255, 153, 0);
+    color:rgb(0, 0, 0);
+    size-adjust: 50%;
+    border-radius: 150px;
+    padding: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.inner_container{
+    border: blue 2px;
+    display:flex;
+    flex-direction: row;
+}
+.nav_container {
+    border: blue 2px;
+    display: flex;
+    justify-content: space-evenly;
+    /* border: solid pinkk 2px; */
+}
+.imgmain {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+p{
+    position:absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    left: 35%;
+    top: 70%;
+    text-align: center;
+    width: 30%;
+}
+p2{
+    position:absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    left: 35%;
+    top: 25%;
+    text-align: center;
+    width: 30%;
+}
+p2{color: rgb(255, 255, 255);
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    }
+    .coffee {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+    }
+    .coldbrew {
+        display: grid;
+        margin-left: 100%;
+        margin-right: auto;
+        width: 200px;
+        
+    }
+.latte {
+    display: block;
+    margin-left: -12%;
+    margin-right: auto;
+    width: 200px;
+    margin-top: 10%;
+}
+.cold_brew {
+    display: block;
+    margin-left: 10%;
+    margin-right: 0%;
+    width: 200px;
+    margin-top: 10%;
+}
+.espresso {
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;;
+    width: 200px;
+    margin-top: 10%;
+}
+.images {
+    display: flex;
+    flex-direction: row;
+}
+p3{
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: -8%;
+    align-items: center;
+}
+p5 {
+    position:absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: 82%;
+    align-items: center; 
+}
+p6 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: -8%;
+    align-items: center;
+}
+p8 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: 82%;
+    align-items: center;
+}
+.croissant {
+    display: block;
+    margin-left: -40%;
+    margin-right: -0;
+    width: 300px;
+    margin-top: 10%;
+}
+.cookies {
+    display: block;
+    margin-left: 10%;
+    margin-right: 0%;
+    width: 300px;
+    margin-top: 10%;
+}
+.cinnamon_roll {
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;;
+    width: 300px;
+    margin-top: 10%;
+}
+p9 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: -28%;
+    align-items: center; 
+}
+p10 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: 35%;
+    align-items: center;
+    margin-top: 10;
+}
+p11 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: 98%;
+    align-items: center;
+}
+p12 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: -28%;
+    align-items: center;
+}
+p14 {
+    position: absolute;
+    font-size: rem;
+    font-weight: 800;
+    margin: 0%;
+    padding: 0%;
+    width: 30%;
+    left: 98%;
+    align-items: center;
+}
+
+
+
+
+
+
